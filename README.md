@@ -1,1 +1,1 @@
-#One Minute Vibe Coding Project
+# One Minute Vibe Coding Project

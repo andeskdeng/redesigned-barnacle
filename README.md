@@ -1,6 +1,6 @@
 # Prime Number Explorer 🔢
 
-A C++ project exploring prime number generation, mathematical patterns, and algorithm experimentation.
+A C++ project exploring prime number generation and mathematical patterns
 
 ## Project Overview
 
